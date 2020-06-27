@@ -2,7 +2,7 @@
 
 Overview:
 
-
+![](images/daily.png)
 
 Goal:
 
