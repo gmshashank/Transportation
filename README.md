@@ -1,7 +1,7 @@
 # Transportation
 
 Goal:
-To make inferences about the work habits of Seattle residents who commute by bicycle
+-To make inferences about the work habits of Seattle residents who commute by bicycle
 
 
 Overview:
