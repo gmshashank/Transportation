@@ -5,7 +5,7 @@ Goal:
 -To make inferences about the work habits of Seattle residents who commute by bicycle
 
 
-#Overview:
+## Summary:
 
 #Average weekly trend in trips over the whole data period:
 
@@ -27,9 +27,9 @@ The above images shows a sharp bimodal traffic pattern.
 
 
 
-#Links:
+##Links:
 https://jakevdp.github.io/blog/2015/07/23/learning-seattles-work-habits-from-bicycle-counts/
 
 
-#Credits:
+## Acknowledgments:
 Jake Vanderplas
